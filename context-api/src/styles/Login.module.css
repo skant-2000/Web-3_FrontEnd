@@ -1,0 +1,21 @@
+.login {
+    width: 250px;
+    margin: auto;
+    margin-top: 70px;
+}
+
+.login > div {
+    text-align: right;
+    margin: 10px 0;
+}
+
+.login > button {
+    border: 0;
+    border-radius: 3px;
+    color: white;
+    background-color: black;
+    padding: 5px;
+    width: 100px;
+    margin-top: 20px;
+    cursor: pointer;
+}
