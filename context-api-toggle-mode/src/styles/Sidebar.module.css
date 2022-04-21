@@ -1,0 +1,50 @@
+.sidebar {
+    width: 50px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    height: 100vh;
+}
+
+.sidebar > div {
+    padding: 10px 20px 10px 16px;
+}
+
+.sidebar > div:nth-child(2) {
+    margin-top: 100px;
+}
+
+.sidebar > div:nth-child(8) {
+    margin-top: 200px;
+}
+
+.sidebar > div > img {
+    width: 30px;
+    border-radius: 50%;
+}
+
+
+
+
+
+.darkSidebar {
+    width: 50px;
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 6px 24px 0px, rgba(143, 143, 143, 0.08) 0px 0px 0px 1px;
+    height: 100vh;
+    background-color: rgb(55, 59, 63);
+}
+
+.darkSidebar > div {
+    padding: 10px 20px 10px 16px;
+}
+
+.darkSidebar > div:nth-child(2) {
+    margin-top: 100px;
+}
+
+.darkSidebar > div:nth-child(8) {
+    margin-top: 200px;
+}
+
+.darkSidebar > div > img {
+    width: 30px;
+    border-radius: 50%;
+}

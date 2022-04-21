@@ -1,0 +1,187 @@
+.main {
+    width: 100%;
+}
+
+.main > div:nth-child(1) {
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.main > div:nth-child(1) > p {
+    margin: 0;
+}
+
+.main > div:nth-child(1) > p:nth-child(1) {
+    font-size: 25px;
+}
+
+.main > div:nth-child(1) > p:nth-child(2) {
+    margin-left: 40px;
+}
+
+.main > div:nth-child(1) > input {
+    margin: 5px 0 0 10px;
+}
+
+.users {
+    width: 400px;
+    margin-left: 60px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;
+    padding: 10px;
+    margin-top: 50px;
+}
+
+.users > div:nth-child(1) {
+    display: flex;
+    flex-direction: row;
+}
+
+.users > div:nth-child(1) > p:nth-child(2) {
+    margin-left: 200px;
+}
+
+.users > div:nth-child(1) > p:nth-child(2) > span {
+    color: grey;
+}
+
+.users > div:nth-child(2) {
+    display: flex;
+    flex-direction: row;
+}
+
+.users > div:nth-child(2) > div:nth-child(1) {
+    width: 50px;
+    height: 50px;
+}
+
+.users > div:nth-child(2) > div:nth-child(1) > img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.users > div:nth-child(2) > div:nth-child(2) {
+    margin-left: 10px;
+    text-align: left;
+}
+
+.users > div:nth-child(2) > div:nth-child(2) > p {
+    margin: 0;
+    font-size: 13px;
+}
+
+.users > div:nth-child(3) {
+    display: flex;
+    flex-direction: row;
+}
+
+.users > div:nth-child(3) > p {
+    margin: 1px 0;
+}
+
+.users > div:nth-child(3) > p:nth-child(2) {
+    margin-left: 170px;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.darkMain {
+    background-color: rgb(31, 35, 39);
+    width: 100%;
+}
+
+.darkMain > div:nth-child(1) {
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.darkMain > div:nth-child(1) > p {
+    margin: 0;
+    color: white;
+}
+
+.darkMain > div:nth-child(1) > p:nth-child(1) {
+    font-size: 25px;
+}
+
+.darkMain > div:nth-child(1) > p:nth-child(2) {
+    margin-left: 40px;
+}
+
+.darkMain > div:nth-child(1) > input {
+    margin: 5px 0 0 10px;
+}
+
+.darkUsers {
+    width: 400px;
+    margin-left: 60px;
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 6px 24px 0px, rgba(155, 155, 155, 0.08) 0px 0px 0px 1px;
+    padding: 10px;
+    margin-top: 50px;
+    background-color: rgb(41, 46, 51);
+}
+
+.darkUsers > div:nth-child(1) {
+    display: flex;
+    flex-direction: row;
+}
+
+.darkUsers > div:nth-child(1) > p {
+    color: white;
+}
+
+.darkUsers > div:nth-child(1) > p:nth-child(2) {
+    margin-left: 200px;
+}
+
+.darkUsers > div:nth-child(1) > p:nth-child(2) > span {
+    color: grey;
+}
+
+.darkUsers > div:nth-child(2) {
+    display: flex;
+    flex-direction: row;
+}
+
+.darkUsers > div:nth-child(2) > div:nth-child(1) {
+    width: 50px;
+    height: 50px;
+}
+
+.darkUsers > div:nth-child(2) > div:nth-child(1) > img {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.darkUsers > div:nth-child(2) > div:nth-child(2) {
+    margin-left: 10px;
+    text-align: left;
+}
+
+.darkUsers > div:nth-child(2) > div:nth-child(2) > p {
+    margin: 0;
+    font-size: 13px;
+    color: white;
+}
+
+.darkUsers > div:nth-child(3) {
+    display: flex;
+    flex-direction: row;
+}
+
+.darkUsers > div:nth-child(3) > p {
+    margin: 1px 0;
+    color: white;
+}
+
+.darkUsers > div:nth-child(3) > p:nth-child(2) {
+    margin-left: 170px;
+    font-weight: 500;
+}
