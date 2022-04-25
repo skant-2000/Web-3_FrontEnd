@@ -1,0 +1,37 @@
+.secondPage {
+    width: 220px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.secondPage > div {
+    margin: 20px 0;
+    text-align: left;
+}
+
+.secondPage > div > label {
+    font-weight: 500;
+}
+
+.secondPage > div > input {
+    width: 100%;
+}
+
+.secondPage > button {
+    width: 100px;
+    height: 27px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.secondPageError {
+    margin-top: 30px;
+}
+
+.secondPageError > div {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
