@@ -1,0 +1,11 @@
+export const INCREMENT_BY_ONE = "INCREMENT_BY_ONE"
+
+export const DECREMENT_BY_ONE = "DECREMENT_BY_ONE"
+
+export const INCREMENT_BY_X = "INCREMENT_BY_X"
+
+export const DECREMENT_BY_X = "DECREMENT_BY_X"
+
+export const MULTIPLY_BY_X = "MULTIPLY_BY_X"
+
+export const DIVIDE_BY_X = "DIVIDE_BY_X"
