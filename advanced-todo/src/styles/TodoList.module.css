@@ -1,0 +1,30 @@
+.main {
+    margin-top: 50px;
+}
+
+.main > div:nth-child(1) > input {
+    margin-right: 5px;
+}
+
+.main > div:nth-child(1) > button {
+    margin-left: 5px;
+}
+
+.main > div:nth-child(2) {
+    margin-top: 50px;
+}
+
+.main > div:nth-child(3) {
+    width: 60%;
+    margin: auto;
+}
+
+.main > div:nth-child(3) > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main > div:nth-child(3) > div > div{
+    margin: 10px 10px;
+}

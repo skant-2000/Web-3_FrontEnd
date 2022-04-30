@@ -1,0 +1,11 @@
+.todoInput {
+    margin-top: 30px;
+}
+
+.todoInput > input {
+    margin-right: 5px;
+}
+
+.todoInput > button {
+    margin-left: 5px;
+}

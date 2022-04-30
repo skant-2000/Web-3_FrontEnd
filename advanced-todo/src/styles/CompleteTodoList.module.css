@@ -1,0 +1,18 @@
+.main {
+    margin-top: 50px;
+}
+
+.main > div:nth-child(2) {
+    width: 60%;
+    margin: auto;
+}
+
+.main > div:nth-child(2) > div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.main > div:nth-child(2) > div > div{
+    margin: 10px 10px;
+}
