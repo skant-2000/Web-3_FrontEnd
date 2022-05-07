@@ -1,0 +1,241 @@
+{
+  "mystery": [
+    {
+      "id": 1,
+      "title": "Gone Girl",
+      "author": "Gillian Flynn",
+      "description": "Gone Girl is a 2012 crime thriller novel by American writer Gillian Flynn. It was published by Crown Publishing Group in June 2012. The novel became popular and made the New York Times Best Seller list.",
+      "price": 805,
+      "isbn": 836529,
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQANCB2b2W72j1s-YQPXgCDc0wXRI7HVKNRDK0CCIwxCwsNchEk",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "In the Woods",
+      "author": "Tana French",
+      "description": "In the Woods is a 2007 mystery novel by Tana French about a pair of Irish detectives and their investigation of the murder of a twelve-year-old girl. It is the first book in French's Dublin Murder Squad series.",
+      "price": 900,
+      "isbn": 836524,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/A1rKOdtY-nL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Girl with the Dragon Tattoo",
+      "author": "Stieg Larsson",
+      "description": "The Girl with the Dragon Tattoo is a psychological thriller novel by Swedish author and journalist Stieg Larsson. It was published posthumously in 2005, translated into English in 2008, and became an international bestseller. The Girl with the Dragon Tattoo is the first book of the Millennium series.",
+      "price": 867,
+      "isbn": 836229,
+      "image": "https://m.media-amazon.com/images/I/41WkaSlVTQS.jpg",
+      "reviews": [
+        {
+          "id": 11,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 12,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    }
+  ],
+
+  "technology": [
+    {
+      "id": 1,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "description": "Steve Jobs is the authorized self-titled biography of American business magnate and Apple co-founder Steve Jobs. The book was written at the request of Jobs by Walter Isaacson, a former executive at CNN and TIME who has written best-selling biographies of Benjamin Franklin and Albert Einstein.",
+      "price": 885,
+      "isbn": 826529,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81VStYnDGrL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Digital Minimalism: Choosing a Focused Life in a Noisy World",
+      "author": "Cal Newport",
+      "description": "New York Times Bestseller'Digital Minimalism is the Marie Kondo of mobile phones' Evening Standard'An eloquent, powerful and enjoyably practical guide to cutting back on screen time'.",
+      "price": 905,
+      "isbn": 836534,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61mEUrqSOQL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Innovators",
+      "author": "Walter Isaacson",
+      "description": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution is an overview of the history of computer science and the Digital Revolution. It was written by Walter Isaacson, and published in 2014 by Simon & Schuster.",
+      "price": 867,
+      "isbn": 836229,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71LOesgcrUL.jpg",
+      "reviews": [
+        {
+          "id": 11,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 12,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    }
+  ],
+
+  "mythology": [
+    {
+      "id": 1,
+      "title": "The Immortals of Meluha",
+      "author": "Amish Tripathi",
+      "description": "The Immortals of Meluha is the first book of Amish Tripathi, first book of Amishverse, and also the first book of Shiva Trilogy. The story is set in the land of Meluha and starts with the arrival of the Shiva. The Meluhans believe that Shiva is their fabled saviour Neelkanth.",
+      "price": 855,
+      "isbn": 936529,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/8181LdPn39L.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Pregnant King",
+      "author": "Devdutt Pattanaik",
+      "description": "The Pregnant King is a 2008 book by Devdutt Pattanaik. It follows the story of Yuvanashva, a childless king, who accidentally drinks the magic potion meant to make his queens pregnant.",
+      "price": 950,
+      "isbn": 336524,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81d7ItybhDL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Circe",
+      "author": "Madeline Miller",
+      "description": "Circe is a 2018 novel by American writer Madeline Miller. Set during the Greek Heroic Age, it is an adaptation of various Greek myths, most notably the Odyssey, as told from the perspective of the witch Circe.",
+      "price": 867,
+      "isbn": 536239,
+      "image": "https://image.ebooks.com/previews/096/096032/096032358/096032358.jpg",
+      "reviews": [
+        {
+          "id": 11,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 12,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    }
+  ],
+
+  "history": [
+    {
+      "id": 1,
+      "title": "India After Gandhi",
+      "author": "Ramachandra Guha",
+      "description": "India After Gandhi: The History of the World's Largest Democracy is a non-fiction book by Indian historian Ramachandra Guha first published by HarperCollins in August 2007. The book covers the history of the India after it gained independence from the British in 1947.",
+      "price": 1020,
+      "isbn": 839229,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71cXEAsmnjL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Argumentative Indian",
+      "author": "Amartya Sen",
+      "description": "The Argumentative Indian is a book written by Nobel Prize winning Indian economist Amartya Sen. It is a collection of essays that discuss India's history and identity, focusing on the traditions of public debate and intellectual pluralism",
+      "price": 920,
+      "isbn": 882764,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81jz1oGFymL.jpg",
+      "reviews": [
+        {
+          "id": 1,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 2,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "White Mughals",
+      "author": "William Dalrymple",
+      "description": "White Mughals is a 2002 history book by William Dalrymple. It is Dalrymple's fifth major book, and tells the true story of a love affair that took place in early nineteenth century Hyderabad between James Achilles Kirkpatrick and Khair-un-Nissa Begum.",
+      "price": 1977,
+      "isbn": 837429,
+      "image": "https://m.media-amazon.com/images/I/41R2rShKaFL.jpg",
+      "reviews": [
+        {
+          "id": 11,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        },
+        {
+          "id": 12,
+          "review": "Although one of the few situations where the film adaptation outshines the novel, Gone Girl by Gillian Flynn is still a shocking page-turner that embeds readers inside the twisted, dark minds of Nick and Amy, a nightmarish though prototypical Gen-X married couple."
+        }
+      ]
+    }
+  ]
+}
